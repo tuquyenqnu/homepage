@@ -55,8 +55,8 @@ function toppage(){
 
 function aboutpage(){
     var currentYear = new Date().getFullYear();
-    $(".span_experience").html(currentYear - 2017);
-    $(".span_age").html(currentYear - 1995);
+    $(".span_experience").html(currentYear - 2020);
+    $(".span_age").html(currentYear - 1997);
 }
 
 function loadweb(){
